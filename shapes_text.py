@@ -18,5 +18,9 @@ cv2.rectangle(img, (100, 50), (300, 400), (0, 0, 255), 5)
 cv2.circle(img, (400, 300), 50, (0, 0, 255), 4)
 
 
+### put texts
+cv2.putText(img, "ABDULLAH", (200, 400), cv2.FONT_HERSHEY_COMPLEX, 1, (0, 255, 0), 1)
+
+
 cv2.imshow("img",img)
 cv2.waitKey(0)
