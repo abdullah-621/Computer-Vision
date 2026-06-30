@@ -32,7 +32,7 @@ cv2.destroyAllWindows()
 
 # import cv2
 
-# img = cv2.imread("resources/cards.jpg")
+# img = cv2.imread("image.png")
 
 # def mousePoints(event, x, y, flags, params):
 #     if event == cv2.EVENT_LBUTTONDOWN:
