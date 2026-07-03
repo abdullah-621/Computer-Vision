@@ -3,3 +3,10 @@ __pycache__/
 *.pyc
 annotation
 Day 19
+runs
+*.pt
+*.avi
+
+runs/
+*.avi
+*.mp4
